@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
+		"Package Control",
+		"SFTP",
+		"StandardFormat",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-pep8"
+	]
+}
